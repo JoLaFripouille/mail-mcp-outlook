@@ -1,0 +1,18 @@
+﻿# PowerShell
+*.psd1
+*.psm1
+
+# Logs / temporaires
+*.log
+*.tmp
+*.bak
+
+# Exports pièces jointes
+MailMcpDownloads/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
